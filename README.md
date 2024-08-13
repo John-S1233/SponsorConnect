@@ -22,9 +22,6 @@ SponsorConnect is a **Streamlit-based application** designed to streamline the p
 - **OpenAI GPT-3.5**: For generating human-like email content.
 - **BeautifulSoup**: For web scraping and extracting text content from URLs.
 
-## Usage
-
-SponsorConnect is ideal for teams and organizations looking to automate their sponsorship outreach efforts, ensuring consistent and professional communication with potential sponsors.
 
 ---
 
