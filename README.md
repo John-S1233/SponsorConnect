@@ -28,5 +28,6 @@ SponsorConnect is ideal for teams and organizations looking to automate their sp
 
 ---
 
-![SponsorConnect](path/to/your/image.png)
-*Image: Screenshot of the SponsorConnect interface.*
+![image](https://github.com/user-attachments/assets/b2e15c3c-7edc-4db2-ac6a-d7df49d3fb32)
+
+*Image: SponsorConnect interface.*
